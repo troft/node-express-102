@@ -1,0 +1,20 @@
+{
+  "name": "node-express-102",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ‘no test yet’",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bandwidth"
+  ],
+  "author": "Jillian Troftgruben",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-bandwidth": "^2.3.2"
+  }
+}
